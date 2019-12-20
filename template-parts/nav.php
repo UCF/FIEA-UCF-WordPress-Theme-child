@@ -24,7 +24,7 @@ $menu = wp_nav_menu( array(
 	<div class="container d-flex flex-row flex-nowrap justify-content-between">
 		<<?php echo $title_elem; ?> class="mb-0">
 			<a class="navbar-brand" href="<?php echo get_home_url(); ?>">
-				<img src="https://fieacahcmsdev.smca.ucf.edu/wp-content/uploads/2019/09/fiea_logo_web.svg" alt="FIEA Logo" height="40px">
+				<img src="https://fieacahcmsdev.smca.ucf.edu/wp-content/uploads/sites/5/2019/09/fiea_logo_web.svg" alt="FIEA Logo" height="40px">
 			</a>
 		</<?php echo $title_elem; ?>>
 
