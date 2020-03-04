@@ -78,20 +78,6 @@
 
 </article>
 
-<!--Boilerplate Info-->
-<div class="container bg-faded mb-4">
-	<div class="row p-5">
-		<div class=" col-2">
-			<p class="text-center"><img class="aligncenter img-fluid rounded-circle" src="http://localhost/fiea_02/files/post_boilerplate_gfx.jpg" alt="Shaquem Griffin">
-		</div>
-		
-		<div class=" col-10">
-			<h3 class="h6 heading-underline">About FIEA</h3>
-			<p class="">FIEA is a graduate video game design program at UCF offering a master’s degree in Interactive Entertainment. Areas of study include game design, development, art, programming and production.</p> 
-			<p>For additional information, visit <a href="https://fiea.ucf.edu/">https://fiea.ucf.edu/</a></p>
-		</div>
-	</div>
-</div>
 				
 
 
