@@ -3,7 +3,7 @@ Theme Name: FIEA-child
 Template: UCF-WordPress-Theme
 Author: Thien "John" Tran www.creativetran.com
 Github Theme URI: https://github.com/UCF/{{My-Project}}
-Version: v1.0.2
+Version: v1.0.3
 */
 
 /*
@@ -14,3 +14,6 @@ the site's header.
 Style overrides should be made in scss files, located in src/scss/, then
 compiled using gulp.
 */
+
+.lookingAhead .ucf-event-description-wrapper {display:none;}
+#menu-item-1328 a {background-color:#ffc904;}
