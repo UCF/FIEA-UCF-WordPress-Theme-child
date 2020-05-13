@@ -1,4 +1,4 @@
-# {{fiea_child}}
+# FIEA-UCF-WordPress-Theme-child
 
 {{Brief description of this theme}}.  Built as a child theme of the [UCF WordPress Theme](https://github.com/UCF/UCF-WordPress-Theme), using the [Athena Framework](https://ucf.github.io/Athena-Framework/).
 
